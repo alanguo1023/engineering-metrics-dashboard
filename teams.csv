@@ -1,0 +1,5 @@
+team_id,team_name,team_size,product_area
+T01,Compute Platform,8,Infrastructure
+T02,Network Firmware,6,Firmware
+T03,Security Infrastructure,7,Security
+T04,Developer Tools,5,Tooling
